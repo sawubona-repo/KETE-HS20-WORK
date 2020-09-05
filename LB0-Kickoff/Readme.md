@@ -4,7 +4,7 @@
 
 ## Initial tasks BEFORE the module kickoff at 15/9/2020
 </br>
-1. Setup a personal GitHub Account, see [HowTO](./LB0-Kickoff/HOWTO_Setup-GitHub-Account.md)
+1. Setup a personal GitHub Account, see [HowTO](LB0-Kickoff/HOWTO_Setup-GitHub-Account.md)
 </br>
 2. Sign In onto Codesandbox.io and create a initial sandbox  
 </br>
