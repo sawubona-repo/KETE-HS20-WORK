@@ -2,7 +2,7 @@
 ###### Last update: 5/9/20 dbe
 
 ## Register your personal GitHub Account
-Before you can start using GitHub, you need to register your own GitHub account.
+Before you can start using GitHub, you need to register your own GitHub account.  
 
 - **Step 1: Set up your account**
 
@@ -14,22 +14,22 @@ Choose your new GitHub **username**, specify your existing **email** address
 and the **password** of your choosing.
 
 After that, 
-> verify your account and you should be able to click the **'Create an account'** button at the bottom.
+> verify your account and you should be able to click the **'Create an account'** button at the bottom.  
 
 - **Step 2: Choose your subscription**
 
 In the second step, you can choose the **Free** subscription plan to use GitHub free of charge.
-After choosing the **Free** plan, click the **'Continue'** button to go to the next step.
+After choosing the **Free** plan, click the **'Continue'** button to go to the next step.  
 
 - **Step 3: Tailor your experience**
 
 This is an optional step where you can share some information about yourself if you want to. 
 Otherwise, you can scroll down the page and skip that step to continue the registration process.
 
-> Finally, you need to check the inbox of the email that you provided to **verify your email address** with GitHub.
-
-
-
+> Finally, you need to check the inbox of the email that you provided to **verify your email address** with GitHub.  
+  
+  
+  
 #### What is GitHub?
 
 GitHub is a hosting platform for Git repositories.  You can use Git on its own without Github (and other similar platforms), but it's difficult to collaborate or share your code with. others.
