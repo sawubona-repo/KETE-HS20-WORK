@@ -1,4 +1,5 @@
 # **HOWTO Setup a GitHub Account**
+###### Last update: 5/9/20 dbe
 
 ## Register your personal GitHub Account
 Before you can start using GitHub, you need to register your own GitHub account.
@@ -34,9 +35,8 @@ GitHub is a hosting platform for Git repositories.  You can use Git on its own w
 - **Github is a hosting service for projects that use Git.**
 
 Make sure to first familiarize yourself with Git before proceeding.
-Check out my **Learn Git In 15 Minutes** tutorial [**here**](https://www.youtube.com/watch?v=USjZcfj8yxE) (also, you can find the Git notes [**here**](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)).
-
-You find also some short tutorials on HO TO use Github [**here**]https://guides.github.com/
+Check out my **Learn Git In 15 Minutes** tutorial [**here**](https://www.youtube.com/watch?v=USjZcfj8yxE) 
+Also, you can find the Git notes [**here**](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)) and some short tutorials on HO TO use Github [**here**](https://guides.github.com/)
 
 Git is used to store projects inside *repositories* and track the complete history of all changes to the project code. Using GitHub, we can upload a local project repository to a remote cloud-based GitHub repository. We can also interact with public repositories published by other developers.
 
