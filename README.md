@@ -13,4 +13,3 @@ The Repository is organized according to the different lecture topics and contai
 
 In addition this repository will also be used by the KETE students themself to share, export or store their code artefatcs for the coding projects
 
-!(/images/logo.png)
