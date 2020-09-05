@@ -3,6 +3,7 @@
 
 ## Register your personal GitHub Account
 Before you can start using GitHub, you need to register your own GitHub account.  
+</br>
 
 - **Step 1: Set up your account**
 
@@ -15,11 +16,13 @@ and the **password** of your choosing.
 
 After that, 
 > verify your account and you should be able to click the **'Create an account'** button at the bottom.  
+</br>
 
 - **Step 2: Choose your subscription**
 
 In the second step, you can choose the **Free** subscription plan to use GitHub free of charge.
 After choosing the **Free** plan, click the **'Continue'** button to go to the next step.  
+</br>
 
 - **Step 3: Tailor your experience**
 
@@ -27,8 +30,9 @@ This is an optional step where you can share some information about yourself if 
 Otherwise, you can scroll down the page and skip that step to continue the registration process.
 
 > Finally, you need to check the inbox of the email that you provided to **verify your email address** with GitHub.  
-  
-  
+</br>
+</br>
+</br>
   
 #### What is GitHub?
 
