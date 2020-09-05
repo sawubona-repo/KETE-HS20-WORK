@@ -1,5 +1,5 @@
 # **HOWTO Setup a CodeSandbox.io Account**
-###### Last update: 5/9/20 dbe
+###### Last update: 5/9/20 dbe - initial draft
 
 ## Create your personal CodeSandbox Account
 
@@ -15,7 +15,6 @@ To sign in at sandbox, visit [CodeSanbox.io](https://codesandbox.io/signin) and 
 
 In the second step, you need to create a '**Sandbox**'. Use XXX for a Javascript coding example
 > xxxx template  
-
 </br>
 
 - **Step 3: Test and execute a Javascript example code**
