@@ -34,7 +34,7 @@ Otherwise, you can scroll down the page and skip that step to continue the regis
 </br>
 </br>
   
-#### What is GitHub?
+## What is GitHub?
 
 GitHub is a hosting platform for Git repositories.  You can use Git on its own without Github (and other similar platforms), but it's difficult to collaborate or share your code with. others.
 
