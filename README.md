@@ -11,4 +11,6 @@ The Repository is organized according to the different lecture topics and contai
 * CODE - code snippets and examples for demonstration and/or self study tasks
 * LINKS - additional sources and information for special topics of the lectures
 
+In addition this repository will also be used by the KETE students themself to share, export or store their code artefatcs for the coding projects
 
+!(/images/logo.png)
