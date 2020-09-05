@@ -1,5 +1,5 @@
 # **HOWTO Setup a GitHub Account**
-###### Last update: 5/9/20 dbe
+###### Last update: 5/9/20 dbe - final v1
 
 ## Register your personal GitHub Account
 Before you can start using GitHub, you need to register your own GitHub account.  
