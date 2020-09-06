@@ -11,7 +11,7 @@ To register a new account, visit [GitHub.com](http://github.com) and find the 'S
 or visit this page directly: [**https://github.com/join**](https://github.com/join)
 
 Choose your new GitHub **username**, specify your existing **email** address 
-> it's important to use your real email address because we will need to verify our account when we finalize the registration process)
+> it's important to use your real email address because we will need to verify our account when we finalize the registration process
 and the **password** of your choosing.
 
 After that, 
