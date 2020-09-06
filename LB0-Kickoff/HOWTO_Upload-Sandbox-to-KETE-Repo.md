@@ -1,4 +1,4 @@
-# ** HOWTO Upload Sandbox to KETE Repo **
+# HOWTO Upload Sandbox to KETE Repo
 ###### Last update: 6/9/20 hsa - initial draft
 
 **Before writing your code in CodeSandbox, you need to import the forked *yourname*/KETE-HS20-WORK Repo first**
