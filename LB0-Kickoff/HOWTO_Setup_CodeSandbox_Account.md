@@ -23,6 +23,10 @@ Try to change the color of the fill function from **fill(236, 31, 81)** to **fil
 
 - **Step 4: Save the code to your Github Repo**
 
+Read CodeSandbox documentation on [HOWTO](https://codesandbox.io/docs/git) import, commit, and make pull requests to GitHub repositories.
+> Your should find a new Repo created on your Github account.
+
+</br>
 </br>
 </br>
   
