@@ -5,7 +5,6 @@
 
 Before you can start using the CodeSandbox programming environment in the cloud, you need to sign in and create a personal sandbox.  
 </br>
-
 - **Step 1: Sign In**
 
 To sign in at sandbox, visit [CodeSanbox.io](https://codesandbox.io/signin) and Sign In with your (previously registered) GitHub Account on their website
@@ -13,16 +12,20 @@ To sign in at sandbox, visit [CodeSanbox.io](https://codesandbox.io/signin) and 
 
 - **Step 2: Create a Sandbox**
 
-In the second step, you need to create a '**Sandbox**'. Use XXX for a Javascript coding example
-> xxxx template  
+In the second step, you need to create a '**Sandbox**'. Check HOWTO [create a Sandbox from given templates](https://codesandbox.io/docs/templates#using-templates). 
+> Use *p5.js template* for a Javascript coding example 
 </br>
 
 - **Step 3: Test and execute a Javascript example code**
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-> xxxx  KETE-HS-WORK -> JS Samples
+Try to change the color of the fill function from **fill(234, 31, 81)** to **fill(20, 31, 81)**. Save your changes. The color of the square background will change to dark blue. *You may need to refresh the browser window to see the changes.*
 </br>
+
+- **Step 4: Save the code to your Github Repo**
+
+Read CodeSandbox documentation on [HOWTO](https://codesandbox.io/docs/git) import, commit, and make pull requests to GitHub repositories.
+> Your should find a new Repo created on your Github account.
+
 </br>
 </br>
   

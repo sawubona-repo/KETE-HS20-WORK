@@ -11,7 +11,7 @@ To register a new account, visit [GitHub.com](http://github.com) and find the 'S
 or visit this page directly: [**https://github.com/join**](https://github.com/join)
 
 Choose your new GitHub **username**, specify your existing **email** address 
-> it's important to use your real email address because we will need to verify our account when we finalize the registration process)
+> it's important to use your real email address because we will need to verify our account when we finalize the registration process
 and the **password** of your choosing.
 
 After that, 
@@ -31,6 +31,9 @@ Otherwise, you can scroll down the page and skip that step to continue the regis
 
 > Finally, you need to check the inbox of the email that you provided to **verify your email address** with GitHub.  
 </br>
+
+## Fork KETE-HS20-WORK Repo
+Inorder to upload your exercises to **KETE-HS20-WORK** Repo, you need to fork it first. Check HOWTO fork a repo [here](https://www.youtube.com/watch?v=HbSjyU2vf6Y). PS: If you want to work remotely, don't clone/download the repo. 
 </br>
 </br>
   
@@ -42,8 +45,8 @@ GitHub is a hosting platform for Git repositories.  You can use Git on its own w
 - **Github is a hosting service for projects that use Git.**
 
 Make sure to first familiarize yourself with Git before proceeding.
-Check out Colt Steele **Learn Git In 15 Minutes** tutorial [**here**](https://www.youtube.com/watch?v=USjZcfj8yxE) 
-Also, you can find his Git notes [**here**](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)) and some short tutorials on HOW TO use Github [**here**](https://guides.github.com/)
+Check out Colt Steele **Learn Git In 15 Minutes** tutorial [**here**](https://www.youtube.com/watch?v=USjZcfj8yxE). 
+Also, you can find his Git notes [**here**](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049) and some short tutorials on HOW TO use Github [**here**](https://guides.github.com/).
 
 Git is used to store projects inside *repositories* and track the complete history of all changes to the project code. Using GitHub, you can upload a local project repository to a remote cloud-based GitHub repository. You can also interact with public repositories published by other developers.
 
