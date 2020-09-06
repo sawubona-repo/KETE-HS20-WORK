@@ -36,7 +36,7 @@ Otherwise, you can scroll down the page and skip that step to continue the regis
   
 ## What is GitHub?
 
-GitHub is a hosting platform for Git repositories.  You can use Git on its own without Github (and other similar platforms), but it's difficult to collaborate or share your code with. others.
+GitHub is a hosting platform for Git repositories.  You can use Git on its own without Github (and other similar platforms), but it's difficult to collaborate or share your code with others.
 
 - **Git is the version control system, the tool that tracks changes to our files over time**
 - **Github is a hosting service for projects that use Git.**
