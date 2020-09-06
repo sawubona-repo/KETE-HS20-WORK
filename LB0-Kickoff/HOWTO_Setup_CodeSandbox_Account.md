@@ -9,15 +9,18 @@ Before you can start using the CodeSandbox programming environment in the cloud,
 
 To sign in at sandbox, visit [CodeSanbox.io](https://codesandbox.io/signin) and Sign In with your (previously registered) GitHub Account on their website
 </br>
+
 - **Step 2: Create a Sandbox**
 
 In the second step, you need to create a '**Sandbox**'. Check HOWTO [create a Sandbox from given templates](https://codesandbox.io/docs/templates#using-templates). 
 > Use *p5.js template* for a Javascript coding example 
 </br>
+
 - **Step 3: Test and execute a Javascript example code**
 
 Try to change the color of the fill function from **fill(236, 31, 81)** to **fill(20, 31, 81)**. Save your changes. The color of the box background will change to dark blue. *You may need to refresh the browser window to see the changes.*
 </br>
+
 - **Step 4: Save the code to your Github Repo**
 
 </br>
