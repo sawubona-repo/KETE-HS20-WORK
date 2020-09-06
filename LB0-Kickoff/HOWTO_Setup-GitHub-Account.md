@@ -42,13 +42,13 @@ GitHub is a hosting platform for Git repositories.  You can use Git on its own w
 - **Github is a hosting service for projects that use Git.**
 
 Make sure to first familiarize yourself with Git before proceeding.
-Check out my **Learn Git In 15 Minutes** tutorial [**here**](https://www.youtube.com/watch?v=USjZcfj8yxE) 
-Also, you can find the Git notes [**here**](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)) and some short tutorials on HO TO use Github [**here**](https://guides.github.com/)
+Check out Colt Steele **Learn Git In 15 Minutes** tutorial [**here**](https://www.youtube.com/watch?v=USjZcfj8yxE) 
+Also, you can find his Git notes [**here**](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)) and some short tutorials on HOW TO use Github [**here**](https://guides.github.com/)
 
-Git is used to store projects inside *repositories* and track the complete history of all changes to the project code. Using GitHub, we can upload a local project repository to a remote cloud-based GitHub repository. We can also interact with public repositories published by other developers.
+Git is used to store projects inside *repositories* and track the complete history of all changes to the project code. Using GitHub, you can upload a local project repository to a remote cloud-based GitHub repository. You can also interact with public repositories published by other developers.
 
 GitHub could even be looked at as a social networking website for developers. Users can follow each other, give ratings, collaborate and communicate.
 
 GitHub allows developers to utilize, change or improve software from its repositories. Each repository contains all project files and the code history. Repositories can have multiple collaborators and can be either public or private.
 
-GitHub is also a popular way developers to publish their project portfolio online. It's an easy way to showcase skills and experience to potential employers or clients.  It's an important technology to be familiar with, especially for a new developer who is just starting out.
+GitHub is also a popular way for developers to publish their project portfolio online. It's an easy way to showcase skills and experience to potential employers or clients.  It's an important technology to be familiar with, especially for a new developer who is just starting out.
