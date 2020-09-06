@@ -45,8 +45,8 @@ GitHub is a hosting platform for Git repositories.  You can use Git on its own w
 - **Github is a hosting service for projects that use Git.**
 
 Make sure to first familiarize yourself with Git before proceeding.
-Check out Colt Steele **Learn Git In 15 Minutes** tutorial [**here**](https://www.youtube.com/watch?v=USjZcfj8yxE) 
-Also, you can find his Git notes [**here**](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)) and some short tutorials on HOW TO use Github [**here**](https://guides.github.com/)
+Check out Colt Steele **Learn Git In 15 Minutes** tutorial [**here**](https://www.youtube.com/watch?v=USjZcfj8yxE). 
+Also, you can find his Git notes [**here**](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049) and some short tutorials on HOW TO use Github [**here**](https://guides.github.com/).
 
 Git is used to store projects inside *repositories* and track the complete history of all changes to the project code. Using GitHub, you can upload a local project repository to a remote cloud-based GitHub repository. You can also interact with public repositories published by other developers.
 
