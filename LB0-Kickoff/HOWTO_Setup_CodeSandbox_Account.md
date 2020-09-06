@@ -11,7 +11,8 @@ To sign in at sandbox, visit [CodeSanbox.io](https://codesandbox.io/signin) and 
 </br>
 - **Step 2: Create a Sandbox**
 
-In the second step, you need to create a '**Sandbox**'. Use *p5.js template* for a Javascript coding example  
+In the second step, you need to create a '**Sandbox**'. Check HOWTO [create a Sandbox from given templates](https://codesandbox.io/docs/templates#using-templates). 
+> Use *p5.js template* for a Javascript coding example 
 </br>
 - **Step 3: Test and execute a Javascript example code**
 
