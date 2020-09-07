@@ -33,7 +33,10 @@ Otherwise, you can scroll down the page and skip that step to continue the regis
 </br>
 
 ## Fork KETE-HS20-WORK Repo
-Inorder to upload your exercises to **KETE-HS20-WORK** Repo, you need to fork it first. Check HOWTO fork a repo [here](https://www.youtube.com/watch?v=HbSjyU2vf6Y). PS: If you want to work remotely, don't clone/download the repo. 
+Inorder to upload your exercises to **KETE-HS20-WORK** Repo, you need to **fork** it first. 
+</br>
+Check HOWTO fork a repo [here](https://www.youtube.com/watch?v=HbSjyU2vf6Y).  
+PS: If you want to work remotely, don't clone/download the repo. 
 </br>
 </br>
   
