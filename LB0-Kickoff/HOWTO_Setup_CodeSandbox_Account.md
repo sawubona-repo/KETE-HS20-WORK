@@ -18,7 +18,8 @@ In the second step, you need to create a '**Sandbox**'. Check HOWTO [create a Sa
 
 - **Step 3: Test and execute a Javascript example code**
 
-Try to change the color of the fill function from **fill(234, 31, 81)** to **fill(20, 31, 81)**. Save your changes. The color of the square background will change to dark blue. *You may need to refresh the browser window to see the changes.*
+Try to change the color of the fill function from **fill(234, 31, 81)** to **fill(20, 31, 81)**. Save your changes. 
+The color of the square background will change to dark blue. *You may need to refresh the browser window to see the changes.*
 </br>
 
 - **Step 4: Save the code to your Github Repo**
