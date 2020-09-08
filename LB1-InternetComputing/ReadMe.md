@@ -14,8 +14,8 @@
 * MX Toolbox Inc  
   [Supertool](https://mxtoolbox.com/SuperTool.aspx)
 
-
-
+</br>
+</br>  
 ## Hilfsmittel
 
 * Akamai -Überwachung der globalen Internetbedingungen    
@@ -31,7 +31,7 @@
   [Internet Live Statistics](https://www.internetlivestats.com/)  
   [Google Trends](https://trends.google.com/trends/hottrends/visualize?nrow=4&ncol=4)   
   [Real Time Tweets Map](https://www.tweeplers.com/map/)    
-  xxx
-  
+  etc.  
+</br>  
 
 
