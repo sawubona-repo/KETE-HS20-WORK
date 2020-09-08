@@ -18,13 +18,16 @@
 
 ## Hilfsmittel
 
-* Akamai -Überwachung der globalen Internetbedingungen
+* Akamai -Überwachung der globalen Internetbedingungen    
   [Akamai](https://www.akamai.com/de/de/resources/visualizing-akamai/)
 
-* Cisco Annual Internet Report 2018-2023
+* Cisco Annual Internet Report 2018-2023    
   [Report Highlights](https://www.cisco.com/c/en/us/solutions/executive-perspectives/annual-internet-report/air-highlights.html)
   
 * Worldwide Internet Activity in Real Time  
+  [Internet Traffic Report](http://www.internettrafficreport.com/)    
+  [State of the Internet](https://livemap.pingdom.com/)   
+  [Digital Attack Map](https://www.digitalattackmap.com/)   
   [Internet Live Statistics](https://www.internetlivestats.com/)  
   [Google Trends](https://trends.google.com/trends/hottrends/visualize?nrow=4&ncol=4)   
   [Real Time Tweets Map](https://www.tweeplers.com/map/)    
