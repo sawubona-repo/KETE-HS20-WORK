@@ -27,6 +27,7 @@
 * Worldwide Internet Activity in Real Time  
   [Internet Traffic Report](http://www.internettrafficreport.com/)    
   [State of the Internet](https://livemap.pingdom.com/)   
+  [Cyberthreat Real Time Map](https://cybermap.kaspersky.com/)    
   [Digital Attack Map](https://www.digitalattackmap.com/)   
   [Internet Live Statistics](https://www.internetlivestats.com/)  
   [Google Trends](https://trends.google.com/trends/hottrends/visualize?nrow=4&ncol=4)   
