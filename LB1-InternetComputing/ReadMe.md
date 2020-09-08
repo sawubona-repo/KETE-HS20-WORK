@@ -5,7 +5,7 @@
 ## Tools
 
 * CURL [Command Line Tool and Library](https://curl.haxx.se/)     
-  [Cheat Sheet] (https://github.com/dennyzhang/cheatsheet.dennyzhang.com/tree/master/cheatsheet-curl-A4)  
+  [Cheat Sheet](https://github.com/dennyzhang/cheatsheet.dennyzhang.com/tree/master/cheatsheet-curl-A4)  
   [Everything curl](https://ec.haxx.se/) is an extensive guide for all things curl
 
 * Stanford National Accelarator Laboratory  
@@ -14,5 +14,20 @@
 * MX Toolbox Inc  
   [Supertool](https://mxtoolbox.com/SuperTool.aspx)
 
+
+
+## Hilfsmittel
+
+* Akamai -Überwachung der globalen Internetbedingungen
+  [Akamai](https://www.akamai.com/de/de/resources/visualizing-akamai/)
+
+* Cisco Annual Internet Report 2018-2023
+  [Report Highlights](https://www.cisco.com/c/en/us/solutions/executive-perspectives/annual-internet-report/air-highlights.html)
+  
+* Worldwide Internet Activity in Real Time
+  [Internet Live Statistics[(https://www.internetlivestats.com/)  
+  [Google Trends](https://trends.google.com/trends/hottrends/visualize?nrow=4&ncol=4) 
+  [Real Time Tweets Map](https://www.tweeplers.com/map/)  
+  
 
 
