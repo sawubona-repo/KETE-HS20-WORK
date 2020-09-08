@@ -15,7 +15,7 @@
   [Supertool](https://mxtoolbox.com/SuperTool.aspx)
 
 </br>
-</br>  
+
 ## Hilfsmittel
 
 * Akamai -Überwachung der globalen Internetbedingungen    
