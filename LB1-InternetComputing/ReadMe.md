@@ -24,7 +24,7 @@
 * Cisco Annual Internet Report 2018-2023
   [Report Highlights](https://www.cisco.com/c/en/us/solutions/executive-perspectives/annual-internet-report/air-highlights.html)
   
-* Worldwide Internet Activity in Real Time
+* Worldwide Internet Activity in Real Time  
   [Internet Live Statistics[(https://www.internetlivestats.com/)  
   [Google Trends](https://trends.google.com/trends/hottrends/visualize?nrow=4&ncol=4) 
   [Real Time Tweets Map](https://www.tweeplers.com/map/)  
