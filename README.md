@@ -1,5 +1,5 @@
 # KETE-HS20-WORK
-## This a the public Repository for KETE HS20 Students 
+## This a the Public Repository for KETE HS20 Students 
 
 This GitHub Repository will be the central soucre of information to support the lectures
 of the Module "KEy Technologies" (KETE)
