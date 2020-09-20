@@ -16,6 +16,7 @@ In addition this repository will also be used by the KETE students themself to s
 
 ###### Last update: 20/9/20 dbe - added content for LB2 Cloud Computing
 
+https://github.com/sawubona-gmbh/KETE-HS20-WORK/tree/master/LB2-CloudComputing  
 * Readme.md with self study tasks for students after the LB2 session
 * HOWTO Setup an AWS Lightsail Instance
 * WHATIS AWS Lightsail short description
