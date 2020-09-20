@@ -1,6 +1,7 @@
 # What is Amazon Lightsail?<a name="what-is-amazon-lightsail"></a>
 
  *Last updated: January 13, 2020* 
+##### xxxx from xxxx
 
 Amazon Lightsail is the easiest way to get started with AWS if you just need virtual private servers\. Lightsail includes everything you need to launch your project quickly – a virtual machine, SSD\-based storage, data transfer, DNS management, and a static IP – for a low, predictable price\. After you create your instance, you can easily connect to it\. You can manage your instances using the Lightsail console, Lightsail API, or Lightsail command line interface \(CLI\)\.
 
@@ -10,7 +11,7 @@ Lightsail is for developers\. You can choose an image for your Lightsail instanc
 
 If you're an individual developer or hobbyist working on a personal project, Lightsail can help you deploy and manage basic cloud resources\. You might also be interested in learning or experimenting with cloud services, such as virtual machines or networking\. Lightsail provides a quick way to get started\.
 
-Lightsail has images with base operating systems, development stacks like LAMP, LEMP \(Nginx\), and SQL Server Express, and applications like WordPress, Drupal, and Magento\. For more detailed information about the software installed on each image, see [Choose a Lightsail instance image](compare-options-choose-lightsail-instance-image.md)\.
+Lightsail has images with base operating systems, development stacks like LAMP, LEMP \(Nginx\), and SQL Server Express, and applications like WordPress, Drupal, and Magento\. For more detailed information about the software installed on each image, see [Choose a Lightsail instance image](https://github.com/awsdocs/amazon-lightsail-developer-guide/blob/master/doc_source/compare-options-choose-lightsail-instance-image.md)\.
 
 As your project grows, you can add block storage disks and attach them to your Lightsail instance\. You can take snapshots of these instances and disks and easily create new instances from those snapshots\. You can also peer your VPC so that your Lightsail instances can use other AWS resources outside of Lightsail\.
 
