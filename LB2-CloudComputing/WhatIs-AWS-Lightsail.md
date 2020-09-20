@@ -1,7 +1,6 @@
 # What is Amazon Lightsail?<a name="what-is-amazon-lightsail"></a>
-
+##### Copy from https://github.com/awsdocs/amazon-lightsail-developer-guide / 20/09/2020 by dbe
  *Last updated: January 13, 2020* 
-##### xxxx from xxxx
 
 Amazon Lightsail is the easiest way to get started with AWS if you just need virtual private servers\. Lightsail includes everything you need to launch your project quickly – a virtual machine, SSD\-based storage, data transfer, DNS management, and a static IP – for a low, predictable price\. After you create your instance, you can easily connect to it\. You can manage your instances using the Lightsail console, Lightsail API, or Lightsail command line interface \(CLI\)\.
 
