@@ -15,8 +15,11 @@ Gehen Sie zur **Amazon Web Services (AWS) Website** (https://aws.amazon.com/de/f
 </br>
 Gehen Sie zur **Microsoft Azure (kurz Azure) Website** (https://azure.microsoft.com/de-de/free/students/) und registrieren Sie dort ein Azure Student Konto
 </br>
+Unter Microsoft Learn (https://docs.microsoft.com/de-de/learn/) findet sich zudem zahlreiches Material, Links und Unterlagen für Studierende, Lehrpersonen zu Microsoft Azure  Services und Coding Examples
+</br>
 </br>
 3. Alterativ: Setup a personal Google Cloud Platform (Student) Account
 </br>
 Gehen Sie zur **Google Cloud Platform (GCP) Website** (https://cloud.google.com/) und registrieren Sie dort ein GCP Student Konto
 </br>
+Unter Google for Education (https://edu.google.com/products/google-cloud) findet sich zudem zahlreiches Material, Links und Unterlagen für Forscher, Studierende, Lehrpersonen zu Google Cloud Services
