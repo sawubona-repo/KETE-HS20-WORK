@@ -13,3 +13,10 @@ The Repository(Repo) is organized according to the different lecture topics and 
 
 In addition this repository will also be used by the KETE students themself to share, export or store their code artefatcs for the coding projects
 
+</br>
+###### Last update: 20/9/20 dbe - added content for LB2 Cloud Computing
+
+* Readme.md with self study tasks for students after the LB2 session
+* HOWTO Setup an AWS Lightsail Instance
+* WHATIS AWS Lightsail short description
+You'll find a whole AWS Ligthsail documentation on Github (https://github.com/awsdocs/amazon-lightsail-developer-guide), the open source version of the Amazon Lightsail docs.
