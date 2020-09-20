@@ -6,17 +6,17 @@
 </br>
 1. Setup a personal AWS (Free) Account  
 </br>
-Gehen Sie zur **Amazon Web Services (AWS) Website** (https://aws.amazon.com/de/free/) und registrieren Sie dort Ihr kostenloses AWS Konto
+Gehen Sie zur **Amazon Web Services (AWS) Website** (https://aws.amazon.com/de/free/) und registrieren Sie dort ein kostenloses AWS Konto
 </br>
 > Die meisten Cloud Examples und Demonstrationen im Modul KETE werden mit AWS Services durchgeführt
 </br>
 </br>
 2. Alterativ: Setup a personal Azure (Student) Account
 </br>
-Gehen Sie zur **Microsoft Azure (kurz Azure) Website** (https://azure.microsoft.com/de-de/free/students/) und registrieren Sie dort Ihr Azure Student Konto
+Gehen Sie zur **Microsoft Azure (kurz Azure) Website** (https://azure.microsoft.com/de-de/free/students/) und registrieren Sie dort ein Azure Student Konto
 </br>
 </br>
 3. Alterativ: Setup a personal Google Cloud Platform (Student) Account
 </br>
-Gehen Sie zur **Google Cloud Platform (GCP) Website** (https://azure.microsoft.com/de-de/free/students/) und registrieren Sie dort Ihr GCP Student Konto
+Gehen Sie zur **Google Cloud Platform (GCP) Website** (https://cloud.google.com/) und registrieren Sie dort ein GCP Student Konto
 </br>
