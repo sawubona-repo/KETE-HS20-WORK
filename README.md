@@ -1,5 +1,5 @@
 # KETE-HS20-WORK
-## This a the public Repository for KETE HS20 Students 
+## This a the Public Repository for KETE HS20 Students 
 
 This GitHub Repository will be the central soucre of information to support the lectures
 of the Module "KEy Technologies" (KETE)
@@ -13,3 +13,11 @@ The Repository(Repo) is organized according to the different lecture topics and 
 
 In addition this repository will also be used by the KETE students themself to share, export or store their code artefatcs for the coding projects
 
+
+###### Last update: 20/9/20 dbe - added content for LB2 Cloud Computing
+
+https://github.com/sawubona-gmbh/KETE-HS20-WORK/tree/master/LB2-CloudComputing  
+* Readme.md with self study tasks for students after the LB2 session
+* HOWTO Setup an AWS Lightsail Instance
+* WHATIS AWS Lightsail short description
+You'll find a whole AWS Ligthsail documentation on Github (https://github.com/awsdocs/amazon-lightsail-developer-guide), the open source version of the Amazon Lightsail docs.
