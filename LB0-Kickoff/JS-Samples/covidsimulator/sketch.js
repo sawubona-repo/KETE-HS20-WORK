@@ -13,7 +13,9 @@
   - add multiple health status (healthy, infected, recovered, dead)
   - ....
   
-  See also https://github.com/midudev/covid-19-spread-simulator
+  Links/Ressources
+  - https://www.covid19sim.org/documents/outbreak-methods
+
 */
 
 var person = [];       						// array of person objects
