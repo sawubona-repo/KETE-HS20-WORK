@@ -2,7 +2,7 @@
 
 ##### last update 23.09.2020/dbe
 
-Simulation of dynamic covid-19 infection spreading
+Simulation of dynamic covid-19 infection spreading </br>
 For more information on pandemic simulations and examples https://www.covid19sim.org/documents/outbreak-methods
 
 ## Necessary files
@@ -19,10 +19,9 @@ css/screen.css
 1. create new sandbox, using p5.js template
 1. copy sketch.js code into sketch.js file
 1. watch the browser output
-1. ---
 1. play around with parameters in the sketch.js variables section 
 
 ## Additional resources/samples
-https://github.com/midudev/covid-19-spread-simulator
+https://github.com/midudev/covid-19-spread-simulator </br>
 https://corona.katapult-magazin.de/
 
