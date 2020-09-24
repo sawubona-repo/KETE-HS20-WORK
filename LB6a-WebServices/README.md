@@ -38,14 +38,13 @@ Complete NodeJS App Setup on an **AWS Lightsail** Virtual Private Server
 * see https://medium.com/@limistah/complete-nodejs-app-setup-on-an-aws-lightsail-vps-877df57a232  
 
 </br>
-Erstellen einer NodeJS Anwendung in der **Microsoft Azure** Cloud    
 
+Erstellen einer NodeJS Anwendung in der **Microsoft Azure** Cloud    
 </br>
 * see https://docs.microsoft.com/de-de/azure/app-service/quickstart-nodejs?pivots=platform-linux  
 
 </br>
-Eine einfache Node.js Anwendung, eine einfache Hello World-Ap, als Webdienst in App Engine der **Google Cloud Platform** bereitstellen  
-
+Eine  NodeJS Anwendung, eine einfache Hello World-App, als Webdienst in der App Engine auf der **Google Cloud Platform** bereitstellen  
 </br>
 * see https://cloud.google.com/appengine/docs/standard/nodejs/quickstart
 
