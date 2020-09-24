@@ -71,7 +71,7 @@ In our current HTML document, make the following changes/additions:
 
 <head>
   <title>Display IP Address</title>
-  <style>
+  ***<style>
     body {
       background-color: #FFCC00;
     }
@@ -89,7 +89,7 @@ In our current HTML document, make the following changes/additions:
       color: #907400;
       text-align: center;
     }
-  </style>
+  </style>***
 </head>
 
 <body>
