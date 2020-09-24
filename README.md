@@ -3,14 +3,15 @@
 
 This GitHub Repository will be the central soucre of information to support the lectures
 of the Module "KEy Technologies" (KETE)
----
-###### Last update: 24/9/20 dbe - added content for LB6a Web Services
+
+> ###### Last update: 24/9/20 dbe - added content for LB6a Web Services
 
 https://github.com/sawubona-gmbh/KETE-HS20-WORK/tree/master/LB6a-WebServices
 * Readme.md with self study resources on Node.js (server side javascript) and setting up a webserver with Node.js
 * HOWTO GetIPAddress - Making HTTP/Web Requests in JavaScript
 * Example GetIPAddres - HTML/JS code 
 
+---
 ###### Last update: 20/9/20 dbe - added content for LB2 Cloud Computing
 
 https://github.com/sawubona-gmbh/KETE-HS20-WORK/tree/master/LB2-CloudComputing  
