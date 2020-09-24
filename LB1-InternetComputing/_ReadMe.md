@@ -1,4 +1,4 @@
-# LB1 - Internet Computing
+# LB1 - Internet Computing README
 ###### Last update: 5/9/20 dbe
 </br>
 
