@@ -5,3 +5,9 @@
 The HTTP protocol provides a common language that allows your browser to communicate with all the servers that make up the internet. 
 The requests your browser makes on your behalf using the HTTP protocol are known as HTTP requests, and these requests go well beyond simply loading a new page as you are navigating. 
 A common (and whole lot more exciting!) set of use cases revolve around updating your existing page with data resulting from a HTTP request.
+
+#### The Example
+Reading (or even thinking) about the HTTP and requests is boring. Thus, we are going to  building a small example. The example will look as follows:  
+* We have some JavaScript that makes an HTTP request to a service (ipinfo.io) that returns a whole bunch of data about your connection. 
+* Using JavaScript, we process all that returned data and surgically pinpoint the IP address that we display here.
+
