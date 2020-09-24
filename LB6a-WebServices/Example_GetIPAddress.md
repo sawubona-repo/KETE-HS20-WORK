@@ -12,7 +12,7 @@ Reading (or even thinking) about the HTTP and requests is boring. Thus, we are g
 * Using JavaScript, we process all that returned data and surgically pinpoint the IP address that we display here.
 
 #### Meet Fetch
-The newest kid on the block for making HTTP requests is the **fetch API**. To use fetch in its most basic form, all we need to do is provide the URL to send our request to. Once the request has been made, a response will be returned that we can then process. 
+The necessary element for making HTTP requests is the **fetch API**. To use fetch in its most basic form, all we need to do is provide the URL to send our request to. Once the request has been made, a response will be returned that we can then process. 
 
 See the code skeleton below. If you want to follow along, create a new HTML document and add the following markup into it:
 
@@ -33,6 +33,29 @@ See the code skeleton below. If you want to follow along, create a new HTML docu
 
 </html> 
 ```
+
+Inside the script tag, add the following code that makes up our web request:
+```
+fetch("https://ipinfo.io/json")
+  .then(function (response) {
+    return response.json();
+  })
+  .then(function (myJson) {
+    console.log(myJson.ip);
+  })
+  .catch(function (error) {
+    console.log("Error: " + error);
+  }); 
+```
+
+Once you have added these lines, save your changes and test your page in the browser. You won't see anything displayed on screen, but if you bring up the **Console** via your browser developer tools, you should see your IP address getting displayed.  
+
+Now that we have our IP address getting displayed to our console, let's take a moment and revisit the code and see what exactly it is doing. 
+
+With our first line of code, we are calling fetch and providing ***the URL we want to make our request to***.
+The URL we send our request to is ipinfo.io/json. Once this line gets run, ***the service running on ipinfo.io will send us some data***. 
+***It is up to us to process that data***, and the following two then blocks are responsible for this processing:
+
 
 
 
