@@ -11,3 +11,8 @@ Reading (or even thinking) about the HTTP and requests is boring. Thus, we are g
 * We have some JavaScript that makes an HTTP request to a service (ipinfo.io) that returns a whole bunch of data about your connection. 
 * Using JavaScript, we process all that returned data and surgically pinpoint the IP address that we display here.
 
+#### Meet Fetch
+The newest kid on the block for making HTTP requests is the **fetch API**. To use fetch in its most basic form, all we need to do is provide the URL to send our request to. Once the request has been made, a response will be returned that we can then process. 
+See the code skeleton below
+
+
