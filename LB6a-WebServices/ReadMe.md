@@ -4,5 +4,5 @@
 
 ### Example GetIPAddress.html
 </br>
-1. xxx  
+Making HTTP/Web Requests in JavaScript using a website returning JSON objects
 </br>
