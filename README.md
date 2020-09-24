@@ -4,6 +4,8 @@
 This GitHub Repository will be the central soucre of information to support the lectures
 of the Module "KEy Technologies" (KETE)
 
+In addition this repository will also be used by the KETE students themself to share, export or store their code artefatcs for the coding projects
+
 ---
 > ###### Last update: 24/9/20 dbe - added content for LB6a Web Services
 
@@ -29,7 +31,7 @@ The Repository(Repo) is organized according to the different lecture topics and 
 * CODE - code snippets and examples for demonstration and/or self study tasks
 * LINKS - additional sources and information for special topics of the lectures
 
-In addition this repository will also be used by the KETE students themself to share, export or store their code artefatcs for the coding projects
+
 
 
 
