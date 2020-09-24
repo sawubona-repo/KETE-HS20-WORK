@@ -17,7 +17,7 @@ Sie können Webserver erstellen, die JSON-Daten, CSV-Dateien und HTML-Webseiten 
 * see https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module-de
 </br>
 
-### Node.js Tutorial
+### Node.js Tutorial (w3school)
 Node.js is an open source server environment, which allows you to run JavaScript on the server.
 The "Show Node.js" tool makes it easy to learn Node.js, it shows both the code and the result.
 </br>
@@ -25,3 +25,7 @@ The "Show Node.js" tool makes it easy to learn Node.js, it shows both the code a
 </br>
 Note: There are more very helpful Tutorials e.g. JavaScript, HTML, CSS, Python, SQL on this www.w3school.com site
 
+### Node.js Video Tutorial (the net ninja)
+Video tutorial playlist (12 clips) *** Node.js crash course *** from The Net Ninja as 
+</br>
+* see https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
