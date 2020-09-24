@@ -13,6 +13,26 @@ Reading (or even thinking) about the HTTP and requests is boring. Thus, we are g
 
 #### Meet Fetch
 The newest kid on the block for making HTTP requests is the **fetch API**. To use fetch in its most basic form, all we need to do is provide the URL to send our request to. Once the request has been made, a response will be returned that we can then process. 
-See the code skeleton below
+
+See the code skeleton below. If you want to follow along, create a new HTML document and add the following markup into it:
+
+```
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Display IP Address</title>
+</head>
+
+<body>
+
+  <script>
+
+  </script>
+</body>
+
+</html> 
+```
+
 
 
