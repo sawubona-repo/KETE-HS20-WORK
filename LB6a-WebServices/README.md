@@ -29,3 +29,14 @@ Note: There are more very helpful Tutorials e.g. JavaScript, HTML, CSS, Python, 
 Video tutorial playlist (12 clips) ***Node.js crash course*** from The Net Ninja  
 </br>
 * see https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+
+
+### Node.js & Website auf einer Cloud instanzieren
+Eine einfache Node.js Anwendung, eine einfache Hello World-Ap, als Webdienst in App Engine der **Google Cloud Platform** bereitstellen.
+</br>
+* see https://cloud.google.com/appengine/docs/standard/nodejs/quickstart
+
+Complete NodeJS App Setup on an **AWS Lightsail** Virtual Private Server
+</br>
+* see https://medium.com/@limistah/complete-nodejs-app-setup-on-an-aws-lightsail-vps-877df57a232
+
