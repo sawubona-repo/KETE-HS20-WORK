@@ -11,7 +11,7 @@ Making HTTP/Web Requests in JavaScript using a website returning JSON objects
 </br>
 
 ### Erstellen eines Webservers in Node.js
-In diesem Tutorial lernen Sie, wie Sie Webserver mit dem in Node.js enthaltenen http-Modul einrichten können. 
+In diesem Tutorial lernen Sie, wie Sie ***Webserver mit dem in Node.js*** enthaltenen http-Modul einrichten können. 
 Sie können Webserver erstellen, die JSON-Daten, CSV-Dateien und HTML-Webseiten zurückgeben können.
 
 * see https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module-de
@@ -26,6 +26,6 @@ The "Show Node.js" tool makes it easy to learn Node.js, it shows both the code a
 Note: There are more very helpful Tutorials e.g. JavaScript, HTML, CSS, Python, SQL on this www.w3school.com site
 
 ### Node.js Video Tutorial (the net ninja)
-Video tutorial playlist (12 clips) ***Node.js crash course*** from The Net Ninja as 
-</br>
+Video tutorial playlist (12 clips) ***Node.js crash course*** from The Net Ninja  
+</br
 * see https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
