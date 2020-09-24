@@ -38,7 +38,7 @@ Complete NodeJS App Setup on an **AWS Lightsail** Virtual Private Server
 * see https://medium.com/@limistah/complete-nodejs-app-setup-on-an-aws-lightsail-vps-877df57a232  
 
 </br>
-Erstellen Sie eine Node.js-Anwendung in der **Microsoft Azure Cloud**
+Erstellen Sie eine Node.js-Anwendung in der **Microsoft Azure Cloud**  
 * see https://docs.microsoft.com/de-de/azure/app-service/quickstart-nodejs?pivots=platform-linux
 
 </br>
