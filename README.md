@@ -3,7 +3,7 @@
 
 This GitHub Repository will be the central soucre of information to support the lectures
 of the Module "KEy Technologies" (KETE)
-
+---
 ###### Last update: 24/9/20 dbe - added content for LB6a Web Services
 
 https://github.com/sawubona-gmbh/KETE-HS20-WORK/tree/master/LB6a-WebServices
