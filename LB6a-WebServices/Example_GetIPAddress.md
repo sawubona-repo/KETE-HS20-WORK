@@ -120,7 +120,7 @@ If you preview your page now, you should see your IP address displayed in all it
 
 ### Extend your example and try other services
 
-1. The returned JSON object from ipinfo.io has some more data (or key/value pairs)
+1. **The returned JSON object from ipinfo.io has some more data (or key/value pairs)**
 ```
  {
   "ip": "95.143.56.212",
@@ -145,7 +145,7 @@ You can easily change (in the fetch request) the document.querySelector("#ipText
       })
 ```
 
-1. Use another webservice (e.g.https://www.jsontest.com/) and handle other data
+2. **Use another webservice (e.g.https://www.jsontest.com/) and handle other data**
 ```
  <h1 id=wsDate></h1>
  ...
