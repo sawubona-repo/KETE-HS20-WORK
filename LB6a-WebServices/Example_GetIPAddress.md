@@ -71,7 +71,7 @@ In our current HTML document, make the following changes/additions:
 
 <head>
   <title>Display IP Address</title>
-  ***<style>
+  <style>
     body {
       background-color: #FFCC00;
     }
@@ -89,7 +89,7 @@ In our current HTML document, make the following changes/additions:
       color: #907400;
       text-align: center;
     }
-  </style>***
+  </style>
 </head>
 
 <body>
@@ -110,11 +110,41 @@ In our current HTML document, make the following changes/additions:
 </body>
 
 </html>
-
 ```
 
+The biggest changes here are adding some HTML elements to provide some ***visual structure*** and the ***CSS to make it all look good and proper***.  
+Notice that we also modified what our second then block does. Instead of printing our IP address to the console, we are instead ***displaying the IP address inside our ipText paragraph element.***
 
+If you preview your page now, you should see your IP address displayed in all its dark text and yellow background.
 
+**Congrats, well-done!**
+
+#### Move on, extend your example and try other services
+
+1. The returned JSON object from ipinfo.io has some more data (or key/value pairs)
+```
+{
+  "ip": "95.143.56.212",
+  "city": "Bern",
+  "region": "Bern",
+  "country": "CH",
+  "loc": "46.9481,7.4474",
+  "org": "AS8758 Iway AG",
+  "postal": "3004",
+  "timezone": "Europe/Zurich",
+  "readme": "https://ipinfo.io/missingauth"
+}
+```
+You can easily change (in the fetch request) the document.querySelector("#ipText") and pointing to another JSON tag (e.g. myJson.region)
+```
+ <h1 id=ipRegion></h1>
+ 
+ ...
+
+.then(function (myJson) {
+        document.querySelector("#ipRegion").innerHTML = myJson.region;
+      })
+```
 
 
 
