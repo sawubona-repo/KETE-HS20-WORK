@@ -26,6 +26,6 @@ The "Show Node.js" tool makes it easy to learn Node.js, it shows both the code a
 Note: There are more very helpful Tutorials e.g. JavaScript, HTML, CSS, Python, SQL on this www.w3school.com site
 
 ### Node.js Video Tutorial (the net ninja)
-Video tutorial playlist (12 clips) *** Node.js crash course *** from The Net Ninja as 
+Video tutorial playlist (12 clips) ***Node.js crash course*** from The Net Ninja as 
 </br>
 * see https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
