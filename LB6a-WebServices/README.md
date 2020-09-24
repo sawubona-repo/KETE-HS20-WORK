@@ -44,6 +44,7 @@ Erstellen einer NodeJS Anwendung in der **Microsoft Azure** Cloud
 * see https://docs.microsoft.com/de-de/azure/app-service/quickstart-nodejs?pivots=platform-linux  
 
 </br>
+
 Eine  NodeJS Anwendung, eine einfache Hello World-App, als Webdienst in der App Engine auf der **Google Cloud Platform** bereitstellen  
 </br>
 * see https://cloud.google.com/appengine/docs/standard/nodejs/quickstart
