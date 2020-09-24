@@ -52,9 +52,13 @@ Once you have added these lines, save your changes and test your page in the bro
 
 Now that we have our IP address getting displayed to our console, let's take a moment and revisit the code and see what exactly it is doing. 
 
-With our first line of code, we are calling fetch and providing ***the URL we want to make our request to***.
-The URL we send our request to is ipinfo.io/json. Once this line gets run, ***the service running on ipinfo.io will send us some data***. 
-***It is up to us to process that data***, and the following two then blocks are responsible for this processing:
+With our first line of code,  
+- we are calling fetch and providing ***the URL we want to make our request to***  
+- The URL we send our request to is ipinfo.io/json  
+- Once this line gets run, ***the service running on ipinfo.io will send us some data***  
+- ***It is up to us to process that data***
+
+
 
 
 
