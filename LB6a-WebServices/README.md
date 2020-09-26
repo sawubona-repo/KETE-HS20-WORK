@@ -2,7 +2,7 @@
 ###### Last update: 24/9/20 dbe
 </br>
 
-### Example GetIPAddress.html
+### Example GetIPAddress.html [LB6a-WebServices/Example_GetIPAddress.html]
 </br>
 Making HTTP/Web Requests in JavaScript using a website returning JSON objects  
 
