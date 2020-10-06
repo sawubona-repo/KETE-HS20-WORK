@@ -10,7 +10,7 @@ Making HTTP/Web Requests in JavaScript using a website returning JSON objects
 * see https://developers.google.com/maps/documentation/javascript/examples/map-geolocation  
 </br>
 
-### Example Interactie MAP.html [see file](Example_InteractiveMap.html)
+### Example Interactie MAP.html [see file](Example_Interactive-MAP.html)
 </br>
 Using Geolocation API and Google Maps  
 
