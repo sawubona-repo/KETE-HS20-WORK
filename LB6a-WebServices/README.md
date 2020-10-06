@@ -6,16 +6,16 @@
 </br>
 Making HTTP/Web Requests in JavaScript using a website returning JSON objects  
 
-* see https://www.w3schools.com/html/html5_geolocation.asp  
-* see https://developers.google.com/maps/documentation/javascript/examples/map-geolocation  
+* see https://ipinfo.io/json  
+* see https://www.jsontest.com/  
 </br>
 
 ### Example Interactie MAP.html [see file](Example_Interactive-MAP.html)
 </br>
-Using Geolocation API and Google Maps  
+Using Geolocation API and Google Maps API  
 
-* see https://ipinfo.io/json  
-* see https://www.jsontest.com/  
+* see https://www.w3schools.com/html/html5_geolocation.asp  
+* see https://developers.google.com/maps/documentation/javascript/examples/map-geolocation  
 </br>
 
 ### Erstellen eines Webservers in Node.js
