@@ -1,10 +1,18 @@
 # LB6a - Web Services README
-###### Last update: 24/9/20 dbe
+###### Last update: 06/10/20 dbe
 </br>
 
 ### Example GetIPAddress.html [see file](Example_GetIPAddress.html)
 </br>
 Making HTTP/Web Requests in JavaScript using a website returning JSON objects  
+
+* see https://www.w3schools.com/html/html5_geolocation.asp  
+* see https://developers.google.com/maps/documentation/javascript/examples/map-geolocation  
+</br>
+
+### Example Interactie MAP.html [see file](Example_InteractiveMap.html)
+</br>
+Using Geolocation API and Google Maps  
 
 * see https://ipinfo.io/json  
 * see https://www.jsontest.com/  
