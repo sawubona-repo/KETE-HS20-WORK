@@ -3,7 +3,8 @@
 </br>
 
 ### Sandbox für Docker Übungen - Play with Docker Classroom
-Umfassende Tutorials für Beginner und Experts zur Nutzung von Docker, mitsamt einer Sandbox Umgebung in der die Handhabung Schritt für Schritt durchgespielt werden kann. Tolle Site !  
+Umfassende Tutorials für Beginner und Experts zur Nutzung von Docker, mitsamt einer Sandbox Umgebung in der die Handhabung Schritt für Schritt durchgespielt werden kann.  
+Tolle Site !  
 </br>
 * see https://training.play-with-docker.com
 </br>
