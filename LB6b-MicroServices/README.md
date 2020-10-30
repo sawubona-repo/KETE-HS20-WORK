@@ -9,17 +9,11 @@ Tolle Site !
 * see https://training.play-with-docker.com
 </br>
 
-### Docker Tutorials (w3school)
+### Docker Tutorials  
 Gute und umfassende Tutorials zu Docker allgemein und dessen Handhabung im Einzelnen
 </br>
 * see https://data-flair.training/blogs/docker-tutorial
 * see https://www.tutorialspoint.com/docker/index.htm
-
-</br>
-### Node.js Video Tutorial (the net ninja)
-Video tutorial playlist (12 clips) ***Node.js crash course*** from The Net Ninja  
-</br>
-* see https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
 
 ---
 ### Node.js & Website auf einer Cloud instanzieren
