@@ -48,6 +48,12 @@ Complete NodeJS App Setup on an **AWS Lightsail** Virtual Private Server
 * see https://medium.com/@limistah/complete-nodejs-app-setup-on-an-aws-lightsail-vps-877df57a232  
 </br>
 
+### Weather Website with  Node.js & Express & OpenWeather
+Learn to build a web app where users can type in a city name and get real-time weather data instantly displayed on their screen.
+</br>
+* see https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b
+</br>
+
 ### PaaS with AWS Lightsail & Docker
 Building a Simple "Pocket Platform" for Prototyping Applications
 </br>
