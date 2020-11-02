@@ -28,6 +28,13 @@ Docker Hub is a service provided by Docker for finding and sharing container ima
 
 
 ---
+### Deploying Docker Containers on Amazon Lightsail
+Using an Amazon Lightsail operating only blueprint to deploy an application using Docker containers. 
+How to create a custom launch script that installs Docker, Docker Compose, and runs and Node-based application.
+</br>
+* see https://www.youtube.com/watch?v=z525kfneC6E
+</br>
+
 ### Simple Website auf Amazon Lightsail & Docker
 Creating a simple website with a custom domain on Amazon Lightsail + Docker
 </br>
