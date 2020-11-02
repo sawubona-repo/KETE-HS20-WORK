@@ -28,6 +28,13 @@ Docker Hub is a service provided by Docker for finding and sharing container ima
 
 
 ---
+### Simple Website on Amazon Lightsail and Docker
+Creating a simple website with a custom domain on Amazon Lightsail + Docker
+</br>
+* see https://medium.com/@JoshuaTheMiller/creating-a-simple-website-with-a-custom-domain-on-amazon-lightsail-docker-86600f19273
+
+</br>
+
 ### Node.js & Website auf einer Cloud instanzieren
 Complete NodeJS App Setup on an **AWS Lightsail** Virtual Private Server
 </br>
@@ -35,13 +42,5 @@ Complete NodeJS App Setup on an **AWS Lightsail** Virtual Private Server
 
 </br>
 
-Erstellen einer NodeJS Anwendung in der **Microsoft Azure** Cloud    
-</br>
-* see https://docs.microsoft.com/de-de/azure/app-service/quickstart-nodejs?pivots=platform-linux  
 
-</br>
-
-Eine  NodeJS Anwendung, eine einfache Hello World-App, als Webdienst in der App Engine auf der **Google Cloud Platform** bereitstellen  
-</br>
-* see https://cloud.google.com/appengine/docs/standard/nodejs/quickstart
 
