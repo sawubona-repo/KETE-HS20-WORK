@@ -1,5 +1,5 @@
 # LB6b - Micro  Services README
-###### Last update: 02/12/20 dbe
+###### Last update: 02/11/20 dbe
 </br>
 
 ### Sandbox für Docker Übungen - Play with Docker Classroom
@@ -49,7 +49,8 @@ Complete NodeJS App Setup on an **AWS Lightsail** Virtual Private Server
 </br>
 
 ### Weather Website with  Node.js & Express & OpenWeather
-Learn to build a web app where users can type in a city name and get real-time weather data instantly displayed on their screen.
+Learn to build a web app where users can type in a city name and get real-time weather data instantly displayed on their screen.   
+See http://react-current-weather.herokuapp.com/#/?_k=z39l2h for a live demo
 </br>
 * see https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b
 </br>
