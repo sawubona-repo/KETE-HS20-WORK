@@ -1,5 +1,5 @@
 # UI/UX Prototyping 
-
+###### Last update: 9/11/20 hsa
 ## Difference between Wireframe, Mockup and Prototype
 A **Wireframe** is a skeletal framework of a website or app which has 3 simple goals; present the main page contents, outline the page structure and layout and display basic website/app UIs. So, **it is perfect to be used at the brainstorming or very early design stage.**
 
