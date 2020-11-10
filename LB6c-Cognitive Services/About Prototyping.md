@@ -20,11 +20,13 @@ Axure RP is one of the powerful UX/UI prototyping tools on the market. In this s
 - [Axure RP Reference](https://docs.axure.com/axure-rp/reference/getting-started-video/)
 - **Axure RP Prototyping Cookbook** *by John Henry Krahenbuhl.* This guide provides fast, practical, step-by-step recipes to create your own custom prototypes for mobile and desktop. 
 
-The following sections mention some of Axure RP features, which you may use in your project. Enjoy:simple_smile:
+Here are some of Axure RP features, which you may use in your project. Enjoy :)
 #### Working with Variables
 [Create a Smart Login with Variables](https://youtu.be/kOLbbgCCY7k)
 > In this session I'll walk you through how to use variables in order to pass login username from login page to a landing homepage and display it back to the end-user. You can use the same logic to pass absolutely any information from one page to the next.
 #### Working with Functions
+[Creating a Shopping Cart Experience](https://youtu.be/Wg-omH7EFAU)
+> In this session I'll walk you through key steps to making a functional shopping cart. The end result will allow users to add and remove products, calculate subtotal and even VAT tax. We will use Axure math functions, variables and ingenious ways to solve small problems.
 #### Working with Conditional Statements
 [Form Field Validation with Condition Statements](https://youtu.be/IjOovDR3CrE)
 > In this session I'll walk you through how to add form validation logic and conditions to your input fields.
@@ -35,9 +37,9 @@ The following sections mention some of Axure RP features, which you may use in y
 - [Repeater Overview](https://fwd.axure.com/e2t/tc/VVSd-f8FltkxW14fBqk8XZGk8W3cF4jk4j35SZMZjDWt3p_97V1-WJV7CgWj9V6RWp18vm7b8VkfVn_2Y5RwlW72kRwq4Zzdt_W6GNq104R1xR9VvsZRQ7MgFVKW47Mmsn8nVCVXW3FB3tn2vzK6bW4m1Yyj36vz9gW7CvNY63n-rtbW50D-Fp82lKgZW1-T-t44DHJDWVm0Ymc4fH4QxW5H00fZ98b0j7W2CLBzs8Q0Z70VNtCj85YBB3LW8tF8133dkhDtW7RFHxY1nRV2XW7LKBgB866LL-W57DDF8168904W7BT4kX2NXCwDW2jdCJn1s5tFDW1yJw0S2qCWjQW2FhYTL2DQ6CmW48SyWg8MmscL3bnF1)
 - [Dynamically Adding Rows to a Repeater](https://fwd.axure.com/e2t/tc/VVSd-f8FltkxW14fBqk8XZGk8W3cF4jk4j35SZMZjDWt3p_97V1-WJV7CgFYyW8YkNPH8n-rQ9W7612zw7tQyXkW2BVt567T6Hb0W84Sc961P9HH0W5y6K6f6xHRKFW2xPlGj6Db6KHM2v7q0jBrNHW6tRb263yMdwVW4_yQg41TYyNlW2NTN5_5HgSCCW7J_bT189pG5JF9fkvFtLfjhW5ThN8C8bdG1sN4sDLKGC45PPW5tl4yy8zLSmYW5w4NTV2299MxW4921X-2RtLH0VQdfNK19F4QsVKtss13C0MLkW1sfW1g8lfjT2W25HSB-79wpx1W77fjTF1qHk24W7gR2CJ8swf8XW2sRC5F75lBlv32fY1)
 - [Using Worksheet Table Data in Repeaters](https://youtu.be/Cnvb1kt9oKk)
-#### Adding external HTML and CSS files
-#### Export to HTML or Share On AxShare
-[Export to HTML or Share On AxShare](https://youtu.be/CJhAOLE0iig)
-> In this session I'll walk you through the ins and outs of publishing, exporting (HTML files) and sharing your prototypes. Axure allows to not only publish your new prototypes on the cloud, but also manage plug-ins, prototype details and commentary. Ability to download the code based file set also gives and option to upload on personal hosting service.
+#### Working with HTML, CSS and Javascript
+- Adding external HTML and CSS files
+- [Export to HTML or Share On AxShare](https://youtu.be/CJhAOLE0iig)
+- [Adding Custom Code to Axure RP Prototypes](https://docs.axure.com/axure-cloud/reference/plugins/)
 #### A Chatbot Prototype
 #### Using Google Maps with Geolocation
