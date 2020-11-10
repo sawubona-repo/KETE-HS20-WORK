@@ -15,7 +15,7 @@ For more information, please check [Wireframe vs Mockup vs Prototype, What's the
 The Right Tool is the one that makes the job for you. In this [video](https://youtu.be/J4XuVHffOUI), you will walk through a handful of criteria/principles that allow you to pick the right UX tool for the right project, budget, occasion etc. <img width="1267" alt="prototyping tools" src="https://user-images.githubusercontent.com/44829900/98557629-bca76500-22a4-11eb-8fc1-0ad78bd1f1ce.png">
 
 ## Axure RP
-Axure RP is one of the powerful UX/UI prototyping tools on the market. In this section, you will be introduced to simple tasks which you can do using Axure RP. If you want to go deeper, there are a lot of Textbooks and online video tutorials which can help you. My recommendations, listed from beginner to expert level, are:
+Axure RP is one of the powerful UX/UI prototyping tools on the market. In this section, you will be introduced to simple tasks which you can do using Axure RP. If you want to go deeper, there are a lot of Textbooks and online video tutorials which can help you. My recommendations are:
 - [vaexperience](https://www.youtube.com/channel/UCMEQZDhP_k_YkFnwoCgT7SQ) youtube channel, [Getting started with Axure Prototyping | Axure RP: Noob to Master](https://www.youtube.com/watch?v=vzV2d2KxzWI&list=PLM2Dd2NIn2CrF2V-xQyZ_Nk3vQNUl2UCG)
 - [Axure RP Reference](https://docs.axure.com/axure-rp/reference/getting-started-video/)
 - **Axure RP Prototyping Cookbook** *by John Henry Krahenbuhl.* This guide provides fast, practical, step-by-step recipes to create your own custom prototypes for mobile and desktop. 
