@@ -38,10 +38,10 @@ Here are some of Axure RP features, which you may use in your project. Enjoy :)
 - [Dynamically Adding Rows to a Repeater](https://fwd.axure.com/e2t/tc/VVSd-f8FltkxW14fBqk8XZGk8W3cF4jk4j35SZMZjDWt3p_97V1-WJV7CgFYyW8YkNPH8n-rQ9W7612zw7tQyXkW2BVt567T6Hb0W84Sc961P9HH0W5y6K6f6xHRKFW2xPlGj6Db6KHM2v7q0jBrNHW6tRb263yMdwVW4_yQg41TYyNlW2NTN5_5HgSCCW7J_bT189pG5JF9fkvFtLfjhW5ThN8C8bdG1sN4sDLKGC45PPW5tl4yy8zLSmYW5w4NTV2299MxW4921X-2RtLH0VQdfNK19F4QsVKtss13C0MLkW1sfW1g8lfjT2W25HSB-79wpx1W77fjTF1qHk24W7gR2CJ8swf8XW2sRC5F75lBlv32fY1)
 - [Using Worksheet Table Data in Repeaters](https://youtu.be/Cnvb1kt9oKk)
 #### Working with HTML, CSS and Javascript
-- [Adding external HTML and CSS files](LB6c-Cognitive Services/John Krahenbuhl - Axure RP Prototyping Cookbook-PACKT (2014)-Chapter 2.pdf)
+- [Adding external HTML and CSS files](John Krahenbuhl - Axure RP Prototyping Cookbook-PACKT (2014)-Chapter 2.pdf)
 - [Export to HTML or Share On AxShare](https://youtu.be/CJhAOLE0iig)
 - [Adding Custom Code to Axure RP Prototypes](https://docs.axure.com/axure-cloud/reference/plugins/)
 #### A Chatbot Prototype
-[Get a Refund](LB6c-Cognitive Services/Get a Refund.rp) is a complete Axure RP Prototype. It is a chatbot for getting a refund from Energy Provider after a wrong Card OR Key top up. 
+[Get a Refund](Get a Refund.rp) is a complete Axure RP Prototype. It is a chatbot for getting a refund from Energy Provider after a wrong Card OR Key top up. 
 #### Using Google Maps with Geolocation
-[Using Google Maps with Geolocation](LB6c-Cognitive Services/John Krahenbuhl - Axure RP Prototyping Cookbook-PACKT (2014)-Chapter 2.pdf)
+[Using Google Maps with Geolocation](John Krahenbuhl - Axure RP Prototyping Cookbook-PACKT (2014)-Chapter 2.pdf)
