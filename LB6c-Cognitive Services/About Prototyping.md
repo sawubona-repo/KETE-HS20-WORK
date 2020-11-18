@@ -1,5 +1,5 @@
 # UI/UX Prototyping 
-###### Last update: 9/11/20 hsa
+###### Last update: 18/11/20 hsa
 ## Difference between Wireframe, Mockup and Prototype
 A **Wireframe** is a skeletal framework of a website or app which has 3 simple goals; present the main page contents, outline the page structure and layout and display basic website/app UIs. So, **it is perfect to be used at the brainstorming or very early design stage.**
 
@@ -41,6 +41,10 @@ Here are some of Axure RP features, which you may use in your project. Enjoy :)
 - [Adding external HTML and CSS files](https://github.com/sawubona-gmbh/KETE-HS20-WORK/blob/master/LB6c-Cognitive%20Services/John%20Krahenbuhl%20-%20Axure%20RP%20Prototyping%20Cookbook-PACKT%20(2014)-Chapter%202.pdf)
 - [Export to HTML or Share On AxShare](https://youtu.be/CJhAOLE0iig)
 - [Adding Custom Code to Axure RP Prototypes](https://docs.axure.com/axure-cloud/reference/plugins/)
+#### Sharing and Publishing your Prototypes ([Axure Cloud](www.axure.cloud))
+- [Publishing Prototypes for Multiple Audiences](https://www.axure.com/blog/publishing-prototypes-multiple-audiences)
+- [Viewing and Sharing Your Prototypes](https://docs.axure.com/axure-rp/reference/viewing-sharing-prototypes/)
+- [Publishing Axure RP Projects to Axure Cloud](https://docs.axure.com/axure-cloud/reference/publishing-axure-rp-projects/)
 #### A Chatbot Prototype
 [Get a Refund](https://github.com/sawubona-gmbh/KETE-HS20-WORK/blob/master/LB6c-Cognitive%20Services/Get%20a%20Refund.rp) is a complete Axure RP Prototype. It is a chatbot for getting a refund from Energy Provider after a wrong Card OR Key top up. 
 #### Using Google Maps with Geolocation
