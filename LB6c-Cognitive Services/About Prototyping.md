@@ -20,7 +20,8 @@ Axure RP is one of the powerful UX/UI prototyping tools on the market. In this s
 - [Axure RP Reference](https://docs.axure.com/axure-rp/reference/getting-started-video/)
 - **Axure RP Prototyping Cookbook** *by John Henry Krahenbuhl.* This guide provides fast, practical, step-by-step recipes to create your own custom prototypes for mobile and desktop. 
 
-Here are some of Axure RP features, which you may use in your project. Enjoy :)
+### Axure RP Functionalities
+Here are some of Axure RP functionalities, which you may use in your project. Enjoy :)
 #### Working with Variables
 [Create a Smart Login with Variables](https://youtu.be/kOLbbgCCY7k)
 > In this session I'll walk you through how to use variables in order to pass login username from login page to a landing homepage and display it back to the end-user. You can use the same logic to pass absolutely any information from one page to the next.
@@ -45,6 +46,11 @@ Here are some of Axure RP features, which you may use in your project. Enjoy :)
 - [Publishing Prototypes for Multiple Audiences](https://www.axure.com/blog/publishing-prototypes-multiple-audiences)
 - [Viewing and Sharing Your Prototypes](https://docs.axure.com/axure-rp/reference/viewing-sharing-prototypes/)
 - [Publishing Axure RP Projects to Axure Cloud](https://docs.axure.com/axure-cloud/reference/publishing-axure-rp-projects/)
+### Plugins and Widget Libraries
+If you are familier with other Prototyping tools such as Adobe XD, Sketch or Figma, you can now easily import your design into Axure and bring your prototype design to life. [Here](https://www.axure.com/blog/category/axure-plugins) is a list of plugins which are approved by Axure.
+
+And if you want to add fancy fonts, icons or even data visualization charts to your prototype, [here](https://www.axure.com/support/download-widget-libraries) is a list of free and premium widget libraries for you to use.
+### Examples
 #### A Chatbot Prototype
 [Get a Refund](https://github.com/sawubona-gmbh/KETE-HS20-WORK/blob/master/LB6c-Cognitive%20Services/Get%20a%20Refund.rp) is a complete Axure RP Prototype. It is a chatbot for getting a refund from Energy Provider after a wrong Card OR Key top up. 
 #### Using Google Maps with Geolocation
