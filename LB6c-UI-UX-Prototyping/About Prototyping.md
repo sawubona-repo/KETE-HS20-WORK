@@ -50,6 +50,8 @@ Here are some of Axure RP functionalities, which you may use in your project. En
 If you are familier with other Prototyping tools such as Adobe XD, Sketch or Figma, you can now easily import your design into Axure and bring your prototype design to life. [Here](https://www.axure.com/blog/category/axure-plugins) is a list of plugins which are approved by Axure.
 
 And if you want to add fancy fonts, icons or even data visualization charts to your prototype, [here](https://www.axure.com/support/download-widget-libraries) is a list of free and premium widget libraries for you to use.
+
+---
 ### Examples
 #### A Chatbot Prototype
 [Get a Refund](https://github.com/sawubona-gmbh/KETE-HS20-WORK/blob/master/LB6c-UI-UX-Prototyping/Get%20a%20Refund.rp) is a complete Axure RP Prototype.  
