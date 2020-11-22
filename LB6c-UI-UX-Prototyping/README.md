@@ -25,13 +25,16 @@ Information is available about installing and distributing license keys on multi
 + for Mac see https://www.axure.com/support/reference/installing-on-mac-osx#silent_installation  
 + for Windows see https://www.axure.com/support/reference/installing-on-windows#silent_installation  
 
+</br>
 #### License keys for Students  
 Students are likely eligible for their own EDU licenses. 
 They can check their eligibility and make requests at https://www.axure.com/edu
 
 ---
-### XXXXX
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-</br>
-* see https://www.youtube.com/watch?v=z525kfneC6E
-</br>
+### EXAMPLES
+#### A Chatbot Prototype
+[Get a Refund](https://github.com/sawubona-gmbh/KETE-HS20-WORK/blob/master/LB6c-UI-UX-Prototyping/Get%20a%20Refund.rp) is a complete Axure RP Prototype.  
+It is a chatbot for getting a refund from Energy Provider after a wrong Card OR Key top up. 
+
+#### Using Google Maps with Geolocation
+You can also use [Google Maps with Geolocation](https://github.com/sawubona-gmbh/KETE-HS20-WORK/blob/master/LB6c-UI-UX-Prototyping/John%20Krahenbuhl%20-%20Axure%20RP%20Prototyping%20Cookbook-PACKT%20(2014)-Chapter%202.pdf) to create dynamic prototypes.
