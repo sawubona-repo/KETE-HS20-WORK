@@ -1,5 +1,5 @@
 # LB6c - UI/UX Prototyping README
-###### Last update: 21/11/20 dbe
+###### Last update: 18/11/20 hsa, 21/11/20 dbe
 </br>
 
 ## Axure
