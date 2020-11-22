@@ -5,8 +5,8 @@
 ### Axure Tutorials  
 Gute und umfassende Tutorials zu AXURE RP allgemein und dessen Handhabung im Einzelnen
 </br>
-* see https://youtu.be/vzV2d2KxzWI  
-* see https://www.youtube.com/playlist?list=PLM2Dd2NIn2CrF2V-xQyZ_Nk3vQNUl2UCG  
+* Zum Einstieg, see https://youtu.be/vzV2d2KxzWI  
+* Komplette Playlist, see https://www.youtube.com/playlist?list=PLM2Dd2NIn2CrF2V-xQyZ_Nk3vQNUl2UCG  
 </br>
 
 ### Axure Classroom/Lab License Key
