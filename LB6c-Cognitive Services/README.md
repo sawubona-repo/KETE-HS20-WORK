@@ -16,9 +16,9 @@ Gute und umfassende Tutorials zu AXURE RP allgemein und dessen Handhabung im Ein
 + Key 1:  
 *oiHsNCu/FdYqrxutNRKIDwAzpFkYjSWoABxwQC5Sy01zOHgbRFSK8AEg5EsO3QOJ*   
 </br>
-Information is available about installing and distributing license keys on multiple computers
-* for Mac see https://www.axure.com/support/reference/installing-on-mac-osx#silent_installation
-* for Windows see https://www.axure.com/support/reference/installing-on-windows#silent_installation
+Information is available about installing and distributing license keys on multiple computers  
+* for Mac see https://www.axure.com/support/reference/installing-on-mac-osx#silent_installation  
+* for Windows see https://www.axure.com/support/reference/installing-on-windows#silent_installation  
 
 
 ---
