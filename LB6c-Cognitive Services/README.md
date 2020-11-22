@@ -23,7 +23,7 @@ Information is available about installing and distributing license keys on multi
 
 #### License keys for Students  
 Students are likely eligible for their own EDU licenses. 
-They can check their eligibility and make requests here https://www.axure.com/edu
+They can check their eligibility and make requests at https://www.axure.com/edu
 
 ---
 ### XXXXX
