@@ -7,9 +7,8 @@ Axure RP is one of the powerful UX/UI prototyping tools on the market. In this (
 If you want to go deeper, there are a lot of Textbooks and online video tutorials which can help you.
 
 </br>
-* To Start with, see https://youtu.be/vzV2d2KxzWI  
-
-* For a full playlist, see https://www.youtube.com/playlist?list=PLM2Dd2NIn2CrF2V-xQyZ_Nk3vQNUl2UCG  
++ To Start with, see https://youtu.be/vzV2d2KxzWI  
++ For a full playlist, see https://www.youtube.com/playlist?list=PLM2Dd2NIn2CrF2V-xQyZ_Nk3vQNUl2UCG  
 </br>
 
 ### Axure Classroom/Lab License Key
