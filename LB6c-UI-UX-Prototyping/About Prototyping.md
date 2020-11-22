@@ -52,6 +52,8 @@ If you are familier with other Prototyping tools such as Adobe XD, Sketch or Fig
 And if you want to add fancy fonts, icons or even data visualization charts to your prototype, [here](https://www.axure.com/support/download-widget-libraries) is a list of free and premium widget libraries for you to use.
 ### Examples
 #### A Chatbot Prototype
-[Get a Refund](https://github.com/sawubona-gmbh/KETE-HS20-WORK/blob/master/LB6c-Cognitive%20Services/Get%20a%20Refund.rp) is a complete Axure RP Prototype. It is a chatbot for getting a refund from Energy Provider after a wrong Card OR Key top up. 
+[Get a Refund](https://github.com/sawubona-gmbh/KETE-HS20-WORK/blob/master/LB6c-UI-UX-Prototyping/Get%20a%20Refund.rp) is a complete Axure RP Prototype.  
+It is a chatbot for getting a refund from Energy Provider after a wrong Card OR Key top up. 
+
 #### Using Google Maps with Geolocation
-You can also use [Google Maps with Geolocation](https://github.com/sawubona-gmbh/KETE-HS20-WORK/blob/master/LB6c-Cognitive%20Services/John%20Krahenbuhl%20-%20Axure%20RP%20Prototyping%20Cookbook-PACKT%20(2014)-Chapter%202.pdf) to create dynamic prototypes.
+You can also use [Google Maps with Geolocation](https://github.com/sawubona-gmbh/KETE-HS20-WORK/blob/master/LB6c-UI-UX-Prototyping/John%20Krahenbuhl%20-%20Axure%20RP%20Prototyping%20Cookbook-PACKT%20(2014)-Chapter%202.pdf) to create dynamic prototypes.
