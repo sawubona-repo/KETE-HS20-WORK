@@ -21,9 +21,10 @@ There is also an excellent Blog and Playlist from Vytautas Alech aka Vy, a desig
 *oiHsNCu/FdYqrxutNRKIDwAzpFkYjSWoABxwQC5Sy01zOHgbRFSK8AEg5EsO3QOJ*   
 </br>
 Information is available about installing and distributing license keys on multiple computers  
+Need help entering your license key? See https://docs.axure.com/axure-rp/reference/activating-rp/
 
-+ for Mac see https://www.axure.com/support/reference/installing-on-mac-osx#silent_installation  
-+ for Windows see https://www.axure.com/support/reference/installing-on-windows#silent_installation  
++ for Mac, see https://www.axure.com/support/reference/installing-on-mac-osx#silent_installation  
++ for Windows, see https://www.axure.com/support/reference/installing-on-windows#silent_installation  
 </br>
 
 ### License keys for Students  
