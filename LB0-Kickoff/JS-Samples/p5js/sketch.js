@@ -12,7 +12,7 @@ function draw() {
   } else {
     fill(215);
   }
-  ellipse(mouseX, mouseY, 80, 80);
+  ellipse(mouseX, mouseY, 160, 160);
 }
 
 // This Redraws the Canvas when resized
